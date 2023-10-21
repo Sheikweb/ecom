@@ -6,6 +6,9 @@
     font-family: 'Jost', sans-serif;
 
 }
+body {
+    overflow:hidden; 
+}
 a {
     text-decoration: none;
 }
